@@ -1,0 +1,14 @@
+.heading{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     color: blue;
+     align-content: center;
+}
+.urls{
+    color: black ;
+    background-color: aqua;
+    
+}
+img{
+    height: auto;
+    width: 200px
+}
